@@ -1,5 +1,5 @@
 # Matlab
-Matlab Götüntü İşleme (Matlab image processing)
+Matlab Görüntü İşleme (Matlab image processing)
 
 Local histogram,basics of spatial filtering ,order statistics filters.
 
